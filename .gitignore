@@ -1,0 +1,8 @@
+public/
+__pycache__/
+*.pyc
+*.asc
+*.key
+*.gpg
+.env
+.env.*

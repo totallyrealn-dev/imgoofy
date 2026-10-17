@@ -1,0 +1,7 @@
+{
+  "name": "imgoofy:)",
+  "codename": "imgoofy",
+  "description": "Tweaks and themes from imgoofy:)",
+  "url": "https://totallyrealn-dev.github.io/imgoofy/",
+  "architectures": ["iphoneos-arm", "iphoneos-arm64", "all"]
+}
